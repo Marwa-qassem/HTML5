@@ -1,0 +1,16 @@
+.btn
+{
+    margin: 500px;
+    width: 370px;
+    font-size: 40px;
+    border-radius: 20px;
+    background-color: aquamarine;
+    border: 2px solid red;
+    transition: all 2s ease-in-out;
+}
+.btn:hover{
+    background-color:brown;
+    box-shadow: -4px -4px 12px 12px blue ;
+    transition: all 2s ease-in-out;
+
+}
